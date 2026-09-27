@@ -1,5 +1,7 @@
+# 🐍 Apprentissage de Python
 
-# Apprentissage Python
+Bienvenue sur mon dépôt dédié à l'apprentissage du langage de programmation **Python** !
+Vous trouverez ici mes notes, mes exercices et (bientôt) mes premiers projets pour progresser pas à pas.
 
 ## Jour 1 -> Conversion de température
 ### Consigne
