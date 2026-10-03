@@ -16,3 +16,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#Explaination:
+# This code defines a function `calculer_moyenne` that calculates the average of a list of numbers. The `main` function prompts the user for the number of grades they want to enter, collects those grades into a list, and then calculates and prints the average using the `calculer_moyenne` function. 
